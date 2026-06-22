@@ -17,7 +17,7 @@ export default function AuthBrandPanel() {
         <div className="w-9 h-9 rounded-xl bg-gradient-to-br from-coral-500 to-coral-600 flex items-center justify-center">
           <MessageCircle size={18} className="text-white" />
         </div>
-        <span className="font-display font-semibold text-lg">Riaz Chat</span>
+        <span className="font-display font-semibold text-lg">TalkSpace</span>
       </div>
 
       <div className="relative z-10 max-w-md">

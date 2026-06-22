@@ -31,7 +31,7 @@ export default function Sidebar({
           <div className="w-8 h-8 rounded-lg bg-gradient-to-br from-coral-500 to-coral-600 flex items-center justify-center font-display font-bold text-white text-sm">
             R
           </div>
-          <span className="font-display font-semibold text-mist-100">Riaz Chat</span>
+          <span className="font-display font-semibold text-mist-100">TalkSpace</span>
         </div>
         <button
           onClick={onNewConversation}

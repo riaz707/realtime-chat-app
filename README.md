@@ -1,4 +1,4 @@
-# Riaz Chat — Real-Time Messaging App
+# TalkSpace — Real-Time Messaging App
 
 A full-stack 1-to-1 and group messaging app built with the MERN stack —
 React (Vite) on the frontend, Node.js/Express + MongoDB + Socket.io on the
