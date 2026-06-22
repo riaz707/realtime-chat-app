@@ -37,7 +37,7 @@ export default function Login() {
             <div className="w-9 h-9 rounded-xl bg-gradient-to-br from-coral-500 to-coral-600 flex items-center justify-center">
               <MessageCircle size={18} className="text-white" />
             </div>
-            <span className="font-display font-semibold text-lg">Riaz Chat</span>
+            <span className="font-display font-semibold text-lg">TalkSpace</span>
           </div>
 
           <h2 className="font-display text-2xl font-bold text-mist-100">Welcome back</h2>
